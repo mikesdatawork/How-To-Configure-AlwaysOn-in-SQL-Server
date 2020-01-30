@@ -16,7 +16,7 @@
 
 1. Login to the Server where SQL Server has been installed and open 'SQL Server Configuration Manager'.
 
-![SQL Configuration Manager] https://mikesdatawork.files.wordpress.com/2015/03/image013.jpg "SQL Configuration Manager")
+![SQL Configuration Manager](https://mikesdatawork.files.wordpress.com/2015/03/image013.jpg "SQL Configuration Manager")
  
 2. Right-click the database service and select 'Properties'.
 
